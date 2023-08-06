@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/awesooomeME/intro_component)
+- Live Site URL: [Live site URL here](https://intro-component-flax.vercel.app/)
 
 ## My process
 
@@ -58,16 +58,16 @@ Also, I think it would be neat to display different error message depending on t
 
 ### Useful resources
 
-- [resource 2](https://www.youtube.com/@KevinPowell)
+- [resource 1](https://www.youtube.com/@KevinPowell)
     - Great YouTube channel for all things CSS
 
 - [resource 2](https://www.youtube.com/watch?v=tIdNeoHniEY&t=702s)
     - Great video for handling react forms and validations
 
-- [resource 1](https://livebook.manning.com/book/next-js-in-action/welcome/v-2/) 
+- [resource 3](https://livebook.manning.com/book/next-js-in-action/welcome/v-2/) 
     - Great book for React introduction
 
-- [resource 3](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [resource 4](https://www.joshwcomeau.com/css/custom-css-reset/)
     - CSS Reset that I used
 
 ## Author
